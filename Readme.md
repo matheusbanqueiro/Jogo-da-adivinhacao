@@ -7,7 +7,7 @@
 Aqui trabalhei:
 + variáveis;
 + comparação matemática;
-+ looping;
++ laço/looping;
 + entrada/saída de dados;
   
  
